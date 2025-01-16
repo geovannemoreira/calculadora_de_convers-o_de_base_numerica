@@ -8,20 +8,25 @@ O objetivo deste projeto é:
 
 ## Esperado do Funcionamento
 - Interface simples e intuitiva.
+  <br>
   ![Interface sem interação inicial do aplicativo ao abri-lo](./inicio.png)
 
 - Entrada de dados.
+    <br>
   ![Tela do aplicativo com o comboboc com os 4 valores das conversões disponiveis](./conversores.png)
 
 - Realiza e exibe conversões para todas as bases numéricas mostradas abaixo, tratando erros de forma simples e fundional.
+    <br>
   ![Tela do aplicativo em uma demonstração do retorno após receber um dado inválido](./erro.png)
 
 - Exemplo com Hexadecimal:
+    <br>
 ![Tela do aplicativo fazendo conversão de A hexadecimal para octal, decimal e binário](convertendo_hexadecimal.png)
 
 
 ## Fonte de Aprendizado
-Este projeto foi desenvolvido com base no tutorial disponibilizado por [@usandopython](https://www.youtube.com/@usandopython). 
+Este projeto foi desenvolvido com base no tutorial disponibilizado por
+[@usandopython](https://www.youtube.com/@usandopython). 
 
 Alterações foram feitas para uso exclusivo em estudos próprios.
 
